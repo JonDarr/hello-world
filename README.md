@@ -1,2 +1,3 @@
 # hello-world
-The Hello World project is a time-honored tradition in computer programming. It is a simple exercise that gets you started when learning something new. 
+
+My Name is JonDarr. I am a throat cancer survivor trying to learn a new, marketable skill. You may see me struggle but you'll never see me quit!
